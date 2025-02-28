@@ -1,5 +1,5 @@
 # SAP-SAM
- respository for ACM MM 2024 paprt "Fine-grained Semantic Alignment with Transferred Person-SAM for Text-based Person Retrieval"
+ respository for ACM MM 2024 paper "Fine-grained Semantic Alignment with Transferred Person-SAM for Text-based Person Retrieval"
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)

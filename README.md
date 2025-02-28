@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
-![Overview of SAP-SAM](fig/region_alignment_framework.pdf "Overview of SAP-SAM") 
+![Overview of SAP-SAM](fig/region_alignment_framework_00.jpg "Overview of SAP-SAM") 
 
 # 🚀 QuickStart
 For a quick start, you can proceed directly to the training phase in Step 5 after installing the necessary dependencies and organizing the data as instructed in Step 4. The processed data is provided in the link of Step 4, and the folder also includes our processed text.
